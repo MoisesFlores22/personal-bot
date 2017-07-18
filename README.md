@@ -7,4 +7,4 @@ First of all run the command
 
 ```bash
     npm i
-    ```
+```
