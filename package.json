@@ -1,0 +1,32 @@
+{
+   "name": "personal-bot",
+   "version": "1.0.0",
+   "description": "git@github.com:MoisesFlores22/personal-bot.git",
+   "main": "src/bot.js",
+   "scripts": {
+     "start": "node src/bot.js",
+     "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+     "type": "git",
+     "url": "git@github.com:MoisesFlores22/personal-bot.git"
+   },
+   "keywords": [
+     "bot",
+     "personal"
+   ],
+   "author": "Moises Flores",
+   "license": "ISC",
+   "bugs": {
+     "url": "https://github.com/MoisesFlores22/personal-bot/issues"
+   },
+   "homepage": "https://github.com/wizeline/wizeline-tottenham-bot#readme",
+   "dependencies": {
+     "botkit": "^0.5.4",
+     "botkit-witai": "^1.0.8",
+     "dotenv": "^4.0.0"
+   },
+   "devDependencies": {
+     "eslint": "^4.1.1"
+   }
+ }
